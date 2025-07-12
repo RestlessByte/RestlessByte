@@ -1,6 +1,6 @@
 # [EN] Hi! I'm Daniil [alias ReastlessByte] 👋
 
-**FullStack Developer | AI-CODER | Linux Enthusiast**
+**🤓 IT-Geek. | 🧠 AI-CODER | 👨‍💻 Strive for the impossible! | 🔐 Security specialist | 👷🏽‍♀️ Arhitech chats bots | 🐧 Linuxoid | ✨ Enthusiast**
 
 🚀 I strive for the impossible and create solutions that work.
 
@@ -32,7 +32,7 @@
 ## 📫 Contacts
 
 - Telegram: [@hub00000](https://t.me/hub00000)  
-- Email: (your email here, if you want to add)
+- Email: localhost.l@yandex.com
 
 ---
 
@@ -46,7 +46,7 @@
 
 # [RU] Привет! Я Даниил [псевдоним RestlessByte] 👋
 
-**FullStack Developer | AI-CODER | Linuxоид**
+**🤓 IT-Geek. | 🧠 AI-CODER | 👨‍💻 Strive for the impossible! | 🔐 Security specialist | 👷🏽‍♀️ Arhitech chats bots | 🐧 Linuxoid | ✨ Enthusiast**
 
 🚀 Стремлюсь к невозможному и создаю решения, которые работают.
 
@@ -77,7 +77,7 @@
 ## 📫 Контакты
 
 - Telegram: [@hub00000](https://t.me/hub00000)  
-- Email: (твой email, если хочешь добавить)
+- Email: localhost.l@yandex.com
 
 ---
 
