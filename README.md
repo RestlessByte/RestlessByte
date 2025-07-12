@@ -1,16 +1,95 @@
-## Hi there 👋
+# [EN] Hi! I'm Daniil Vladislavovich 👋
 
-<!--
-**RestlessByte/RestlessByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FullStack Developer | AI-CODER | Linux Enthusiast**
 
-Here are some ideas to get you started:
+🚀 I strive for the impossible and create solutions that work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 My Projects and Achievements
+
+- Created a neural network hub on Telegram: [AIHub0_bot](https://t.me/AIHub0_bot)  
+- Developed a gaming bot on Telegram: [farmilochka0_bot](https://t.me/farmilochka0_bot)  
+- All my achievements and updates on Telegram: [@hub00000](https://t.me/hub00000)  
+- My website on GitHub Pages: [RestlessByte.github.io](https://RestlessByte.github.io) — *Check out my skills and projects here!*
+
+---
+
+## 🛠 Skills and Technologies
+
+- Languages: JavaScript, TypeScript, Python, C++  
+- Frameworks and Platforms: Node.js, React, Express  
+- Tools: Git, Docker, Linux, OpenAI API  
+- Specialization: FullStack development, AI integrations, security
+
+---
+
+## 📄 Resumes and Job Offers
+
+- [Resume on hh.ru](https://hh.ru/resume/7aee394dff0e982c5b0039ed1f666a5a524544)  
+- [Avito service card](https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194)  
+- [Resume on Avito](https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373)  
+
+---
+
+## 📫 Contacts
+
+- Telegram: [@hub00000](https://t.me/hub00000)  
+- Email: (your email here, if you want to add)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=dark)
+
+---
+
+*“Code is the poetry of logic, and development is the art of creating the future.”*
+
+---
+
+# [RU] Привет! Я Даниил Владиславович 👋
+
+**FullStack Developer | AI-CODER | Linuxоид**
+
+🚀 Стремлюсь к невозможному и создаю решения, которые работают.
+
+---
+
+## 🔭 Мои проекты и достижения
+
+- Создал нейросетевой хаб в Telegram: [AIHub0_bot](https://t.me/AIHub0_bot)  
+- Разработал игровой бот в Telegram: [farmilochka0_bot](https://t.me/farmilochka0_bot)  
+- Все мои достижения и обновления в Telegram: [@hub00000](https://t.me/hub00000)  
+- Мой сайт на GitHub Pages: [RestlessByte.github.io](https://RestlessByte.github.io) — *Заходи, чтобы увидеть мои скиллы и проекты!*
+
+---
+
+## 🛠 Навыки и технологии
+
+- Языки: JavaScript, TypeScript, Python, C++  
+- Фреймворки и платформы: Node.js, React, Express  
+- Инструменты: Git, Docker, Linux, OpenAI API  
+- Специализация: FullStack разработка, AI интеграции, безопасность
+
+---
+
+## 📄 Резюме и предложения по работе
+
+- [Резюме на hh.ru](https://hh.ru/resume/7aee394dff0e982c5b0039ed1f666a5a524544)  
+- [Avito карточка услуг](https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194)  
+- [Резюме на Avito](https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373)  
+
+---
+
+## 📫 Контакты
+
+- Telegram: [@hub00000](https://t.me/hub00000)  
+- Email: (твой email, если хочешь добавить)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=dark)
+
+---
+
+*«Код — это поэзия логики, а разработка — искусство создавать будущее»*
