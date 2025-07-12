@@ -11,16 +11,13 @@
 - Created a neural network hub on Telegram: [AIHub0_bot](https://t.me/AIHub0_bot)  
 - Developed a gaming bot on Telegram: [farmilochka0_bot](https://t.me/farmilochka0_bot)  
 - All my achievements and updates on Telegram: [@hub00000](https://t.me/hub00000)  
-- My website on GitHub Pages: [RestlessByte.github.io](https://RestlessByte.github.io) — *Check out my skills and projects here!*
+
 
 ---
 
 ## 🛠 Skills and Technologies
 
-- Languages: JavaScript, TypeScript, Python, C++  
-- Frameworks and Platforms: Node.js, React, Express  
-- Tools: Git, Docker, Linux, OpenAI API  
-- Specialization: FullStack development, AI integrations, security
+- My website on GitHub Pages: [RestlessByte.github.io](https://RestlessByte.github.io) — *Check out my skills and projects here!*
 
 ---
 
@@ -60,16 +57,12 @@
 - Создал нейросетевой хаб в Telegram: [AIHub0_bot](https://t.me/AIHub0_bot)  
 - Разработал игровой бот в Telegram: [farmilochka0_bot](https://t.me/farmilochka0_bot)  
 - Все мои достижения и обновления в Telegram: [@hub00000](https://t.me/hub00000)  
-- Мой сайт на GitHub Pages: [RestlessByte.github.io](https://RestlessByte.github.io) — *Заходи, чтобы увидеть мои скиллы и проекты!*
+
 
 ---
 
 ## 🛠 Навыки и технологии
-
-- Языки: JavaScript, TypeScript, Python, C++  
-- Фреймворки и платформы: Node.js, React, Express  
-- Инструменты: Git, Docker, Linux, OpenAI API  
-- Специализация: FullStack разработка, AI интеграции, безопасность
+- Мой сайт на GitHub Pages: [RestlessByte.github.io](https://RestlessByte.github.io) — *Заходи, чтобы увидеть мои скиллы и проекты!*
 
 ---
 
