@@ -1,4 +1,4 @@
-# [EN] Hi! I'm Daniil Vladislavovich 👋
+# [EN] Hi! I'm Daniil [alias ReastlessByte] 👋
 
 **FullStack Developer | AI-CODER | Linux Enthusiast**
 
@@ -47,7 +47,7 @@
 
 ---
 
-# [RU] Привет! Я Даниил Владиславович 👋
+# [RU] Привет! Я Даниил [псевдоним RestlessByte] 👋
 
 **FullStack Developer | AI-CODER | Linuxоид**
 
