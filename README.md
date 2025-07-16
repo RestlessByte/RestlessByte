@@ -1,88 +1,80 @@
-# [EN] Hi! I'm Daniil [alias ReastlessByte] 👋
+# 👋 Hi! I'm Daniil [alias RestlessByte]
 
-**🤓 IT-Geek. | 🧠 AI-CODER | 👨‍💻 Strive for the impossible! | 🔐 Security specialist | 👷🏽‍♀️ Arhitech chats bots | 🐧 Linuxoid | ✨ Enthusiast**
+**🤓 IT-Geek | 🧠 AI-CODER | 🔐 Security Specialist | 👷‍♂️ Architect of Chat Bots | 🐧 Linux Enthusiast | ✨ Innovation Seeker**
 
-🚀 I strive for the impossible and create solutions that work.
-
----
-
-## 🔭 My Projects and Achievements
-
-- Created a neural network hub on Telegram: [AIHub0_bot](https://t.me/AIHub0_bot)  
-- Developed a gaming bot on Telegram: [farmilochka0_bot](https://t.me/farmilochka0_bot)  
-- All my achievements and updates on Telegram: [@hub00000](https://t.me/hub00000)  
-
+> *"Code is the poetry of logic, and development is the art of creating the future."*
 
 ---
 
-## 🛠 Skills and Technologies
+## 🔭 Featured Projects
 
-- My website on GitHub Pages: [RestlessByte.github.io](https://RestlessByte.github.io) — *Check out my skills and projects here!*
-
----
-
-## 📄 Resumes and Job Offers
-
-- [Resume on hh.ru](https://hh.ru/resume/7aee394dff0e982c5b0039ed1f666a5a524544)  
-- [Avito service card](https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194)  
-- [Resume on Avito](https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373)  
+- **AI Hub on Telegram**  
+  [AIHub0_bot](https://t.me/AIHub0_bot) - Neural network solutions hub
+- **Gaming Platform**  
+  [farmilochka0_bot](https://t.me/farmilochka0_bot) - Telegram gaming bot
+- **Project Updates**  
+  [@hub00000](https://t.me/hub00000) - My development channel
 
 ---
 
-## 📫 Contacts
+## 🛠 Tech Stack & Skills
 
-- Telegram: [@hub00000](https://t.me/hub00000)  
-- Email: localhost.l@yandex.com
+**Explore my portfolio:**  
+[RestlessByte.github.io](https://RestlessByte.github.io)  
+*(Full showcase of my technical capabilities)*
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=dark)
-
----
-
-*“Code is the poetry of logic, and development is the art of creating the future.”*
+- **Languages:** Python, JavaScript, C++
+- **AI/ML:** Neural Networks, NLP, TensorFlow
+- **Security:** Pentesting, Cryptography
+- **DevOps:** Docker, CI/CD, Linux Administration
 
 ---
 
-# [RU] Привет! Я Даниил [псевдоним RestlessByte] 👋
+## 📜 Unified License for All Repositories
 
-**🤓 IT-Geek. | 🧠 AI-CODER | 👨‍💻 Strive for the impossible! | 🔐 Security specialist | 👷🏽‍♀️ Arhitech chats bots | 🐧 Linuxoid | ✨ Enthusiast**
+**Copyright © 2025 RestlessByte**  
+*All public repositories follow these terms unless specified otherwise*
 
-🚀 Стремлюсь к невозможному и создаю решения, которые работают.
+### ✅ Permitted
+- Personal and commercial use
+- Private modifications
+- Integration in end-products (including SaaS)
 
----
+### 🚫 Prohibited
+- Redistribution of source code
+- Resale of software
+- Public distribution of modified versions
 
-## 🔭 Мои проекты и достижения
+### 📝 Attribution Required
+1. Visible credit in project documentation
+2. Author mention in software credits
 
-- Создал нейросетевой хаб в Telegram: [AIHub0_bot](https://t.me/AIHub0_bot)  
-- Разработал игровой бот в Telegram: [farmilochka0_bot](https://t.me/farmilochka0_bot)  
-- Все мои достижения и обновления в Telegram: [@hub00000](https://t.me/hub00000)  
+[Full License Text](LICENSE.md) • [License Inquiries](mailto:localhost.l@yandex.com)
 
-
----
-
-## 🛠 Навыки и технологии
-- Мой сайт на GitHub Pages: [RestlessByte.github.io](https://RestlessByte.github.io) — *Заходи, чтобы увидеть мои скиллы и проекты!*
-
----
-
-## 📄 Резюме и предложения по работе
-
-- [Резюме на hh.ru](https://hh.ru/resume/7aee394dff0e982c5b0039ed1f666a5a524544)  
-- [Avito карточка услуг](https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194)  
-- [Резюме на Avito](https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373)  
+[![Custom License](https://img.shields.io/badge/License-Custom-important?style=flat-square)](LICENSE.md)
 
 ---
 
-## 📫 Контакты
+## 📄 Professional Profiles
 
-- Telegram: [@hub00000](https://t.me/hub00000)  
-- Email: localhost.l@yandex.com
+| Platform        | Link                                                                 |
+|-----------------|----------------------------------------------------------------------|
+| hh.ru           | [Resume](https://hh.ru/resume/7aee394dff0e982c5b0039ed1f666a5a524544)|
+| Avito (Services)| [Service Card](https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194) |
+| Avito (Resume)  | [Programmer Profile](https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373) |
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=dark)
+## 📫 Contact Me
+
+- **Telegram:** [@hub00000](https://t.me/hub00000)
+- **Email:** [localhost.l@yandex.com](mailto:localhost.l@yandex.com)
+- **GitHub Issues:** [Feature Requests](https://github.com/RestlessByte/RestlessByte/issues)
 
 ---
 
-*«Код — это поэзия логики, а разработка — искусство создавать будущее»*
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=dark&hide_border=true)
