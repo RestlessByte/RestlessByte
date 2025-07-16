@@ -2,7 +2,7 @@
 
 **🤓 IT-Geek | 🧠 AI-CODER | 🔐 Security Specialist | 👷‍♂️ Architect of Chat Bots | 🐧 Linux Enthusiast | ✨ Innovation Seeker**
 
-> *"Code is the poetry of logic, and development is the art of creating the future."*
+> *"Strive for the impossible"*
 
 ---
 
