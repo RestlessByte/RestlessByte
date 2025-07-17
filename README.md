@@ -41,7 +41,7 @@
    
 2. **Default account license**  
    For repositories without explicit license:  
-   [`/RestlessByte/-License-Policy-for-My-Repositories/edit/main/LICENSE.md`](https://github.com/RestlessByte/-License-Policy-for-My-Repositories/edit/main/LICENSE.md) applies
+   [`RestlessByte/-License-Policy-for-My-Repositories/blob/main/LICENSE.md`](https://github.com/RestlessByte/-License-Policy-for-My-Repositories/blob/main/LICENSE.md) applies
 
 ### 📦 License Terms (Default)
 **✅ Permitted**  
@@ -94,4 +94,4 @@
 
 ---
 
-> **Note:** All repositories inherit default licensing from [`RestlessByte/LICENSE.md`](https://github.com/RestlessByte/RestlessByte/blob/main/LICENSE.md) unless overridden by repository-specific license files.
+> **Note:** All repositories inherit default licensing from [`RestlessByte/LICENSE.md`](https://github.com/RestlessByte/-License-Policy-for-My-Repositories/blob/main/LICENSE.md) unless overridden by repository-specific license files.
