@@ -32,13 +32,6 @@
 [RestlessByte.github.io](https://RestlessByte.github.io)  
 *(Full showcase of my technical capabilities)*
 
-- **Languages:** Python, JavaScript, C++
-- **AI/ML:** Neural Networks, NLP, TensorFlow
-- **Security:** Pentesting, Cryptography
-- **DevOps:** Docker, CI/CD, Linux Administration
-
----
-
 ## 📜 Repository Licensing Policy
 
 **Copyright © 2025 RestlessByte**  
