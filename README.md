@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Daniil [alias RestlessByte]
+# 👋 Hi! I'm Daniil V [alias RestlessByte]
 
 **🤓 IT-Geek | 🧠 AI-CODER | 🔐 Security Specialist | 👷‍♂️ Architect of Chat Bots | 🐧 Linux Enthusiast | ✨ Innovation Seeker**
 
