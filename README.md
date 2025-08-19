@@ -46,7 +46,7 @@
 
 ## 🛠 Tech Stack (Core)
 
-<p>
+<siv stule="display: flex">
   <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="TypeScript" title="TypeScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Node.js" title="Node.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -59,7 +59,7 @@
   <img alt="Kubernetes" title="Kubernetes" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img alt="NGINX" title="NGINX" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
   <img alt="Git" title="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</p>
+</div>
 
 <p>
   <a href="https://RestlessByte.github.io">
