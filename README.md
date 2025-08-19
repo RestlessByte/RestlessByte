@@ -9,6 +9,7 @@
 
 <p align="center">
   <em>“Strive for the impossible.”</em>
+  <em>"We know - that we know nothing, Socrates"</em>
 </p>
 
 <!-- Role Pills (first priority) -->
