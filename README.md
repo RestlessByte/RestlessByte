@@ -79,10 +79,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL"/><br/>
       <sub><b>PostgreSQL</b></sub>
     </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" alt="Redis"/><br/>
-      <sub><b>Redis</b></sub>
-    </td>
   </tr>
   <tr>
     <td align="center" width="140">
