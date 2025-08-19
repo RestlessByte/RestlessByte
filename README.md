@@ -18,16 +18,13 @@
 ## 🔭 Featured Projects
 
 <div>
- <span >Self-hosted [prod can not work]</span>
- - **AI Hub on Telegram**  
-  [AIHub0_bot](https://t.me/AIHub0_bot) - Neural network solutions hub
-- **Gaming Platform**  
-  [farmilochka0_bot](https://t.me/farmilochka0_bot) - Telegram gaming bot
-</div>
-- **Project Updates**  
-  [@hub00000](https://t.me/hub00000) - My development channel
-
----
+Self-hosted [prod can not work]
+| Name Product        | Link                                                                 |
+|-----------------|----------------------------------------------------------------------|
+├ |AI Hub in Telegram | [AIHub0_bot](https://t.me/AIHub0_bot) |
+├ *Gaming Platform | [Service Card](https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194) |
+├ Other my products | [@hub00000](https://t.me/hub00000) |
+---------------------------------------------------------|
 
 ## 🛠 Tech Stack & Skills
 
