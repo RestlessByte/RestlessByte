@@ -21,7 +21,7 @@
 Self-hosted [prod can not work]
 | Name Product        | Link                                                                 |
 |-----------------|----------------------------------------------------------------------|
-├ |AI Hub in Telegram | [AIHub0_bot](https://t.me/AIHub0_bot) |
+├ | AI Hub in Telegram | [AIHub0_bot](https://t.me/AIHub0_bot) |
 ├ *Gaming Platform | [Service Card](https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194) |
 ├ Other my products | [@hub00000](https://t.me/hub00000) |
 ---------------------------------------------------------|
