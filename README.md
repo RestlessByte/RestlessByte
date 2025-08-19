@@ -17,10 +17,13 @@
 
 ## 🔭 Featured Projects
 
-- **AI Hub on Telegram**  
+<div>
+ <span >Self-hosted [prod can not work]</span>
+ - **AI Hub on Telegram**  
   [AIHub0_bot](https://t.me/AIHub0_bot) - Neural network solutions hub
 - **Gaming Platform**  
   [farmilochka0_bot](https://t.me/farmilochka0_bot) - Telegram gaming bot
+</div>
 - **Project Updates**  
   [@hub00000](https://t.me/hub00000) - My development channel
 
