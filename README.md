@@ -7,7 +7,7 @@
 
 <h1 align="center">👋 Hi! I'm Daniil V — <i>aka</i> <a href="https://github.com/RestlessByte">RestlessByte</a></h1>
 
-<p align="center">
+<p align="center" style="flex-direction: column; display: flex;>
   <em>“Strive for the impossible.”</em>
   <em>"We know - that we know nothing, Socrates"</em>
 </p>
