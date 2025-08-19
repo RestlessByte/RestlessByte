@@ -46,7 +46,7 @@
 
 ## 🛠 Tech Stack (Core)
 
-<siv stule="display: flex">
+<div style="display: flex">
   <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="TypeScript" title="TypeScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Node.js" title="Node.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
