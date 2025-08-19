@@ -115,12 +115,7 @@
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/websocket.svg" height="48" alt="WebSockets"/><br/>
       <sub><b>WebSockets</b></sub>
     </td>
-    <td align="center" width="140">
-      <a href="https://RestlessByte.github.io">
-        <img src="https://img.shields.io/badge/More%20Skills-%E2%86%92%20Portfolio-0b7285?style=for-the-badge" alt="More skills → Portfolio"/>
-      </a><br/>
-      <sub><b>Полный стек</b></sub>
-    </td>
+
   </tr>
 </table>
 <p>
