@@ -1,99 +1,149 @@
-# 👋 Hi! I'm Daniil V [alias RestlessByte]
-
-**🤓 IT-Geek | 🧠 AI-CODER | 🔐 Security Specialist | 👷‍♂️ Architect of Chat Bots | 🐧 Linux Enthusiast | ✨ Innovation Seeker**
-
-> *"Strive for the impossible"*
-
-# Conneect with me:
- <p align="center">
- 
-  <a href="https://t.me/RestlessByte">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<!-- Profile Header -->
+<p align="center">
+  <a href="https://github.com/RestlessByte">
+    <img src="https://github.com/RestlessByte.png" width="140" height="140" style="border-radius:50%" alt="RestlessByte Avatar" />
   </a>
+</p>
 
+<h1 align="center">👋 Hi! I'm Daniil V — <i>aka</i> <a href="https://github.com/RestlessByte">RestlessByte</a></h1>
+
+<p align="center">
+  <em>“Strive for the impossible.”</em>
+</p>
+
+<!-- Role Pills (first priority) -->
+<p align="center">
+  <img alt="IT-Geek" src="https://img.shields.io/badge/IT–Geek-0b7285?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="AI-Coder" src="https://img.shields.io/badge/AI–Coder-5f3dc4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Security" src="https://img.shields.io/badge/Security%20Specialist-2b8a3e?style=for-the-badge&logo=protonvpn&logoColor=white" />
+  <img alt="Chat Bots Architect" src="https://img.shields.io/badge/Chat%20Bots%20Architect-1c7ed6?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img alt="Linux Enthusiast" src="https://img.shields.io/badge/Linux%20Enthusiast-111827?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Innovation Seeker" src="https://img.shields.io/badge/Innovation%20Seeker-f59f00?style=for-the-badge&logo=lightning&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://t.me/RestlessByte">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:localhost.l@yandex.com">
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://RestlessByte.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-## 🔭 Featured Projects
+## 🔥 What I Do
 
-<div>
-Self-hosted [prod can not work]
-| Name Product        | Link                                                                 |
-|-----------------|----------------------------------------------------------------------|
-├ | AI Hub in Telegram | [AIHub0_bot](https://t.me/AIHub0_bot) |
-├ *Gaming Platform | [Service Card](https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194) |
-├ Other my products | [@hub00000](https://t.me/hub00000) |
----------------------------------------------------------|
-
-## 🛠 Tech Stack & Skills
-
-**Explore my portfolio:**  
-[RestlessByte.github.io](https://RestlessByte.github.io)  
-*(Full showcase of my technical capabilities)*
-
-## 📜 Repository Licensing Policy
-
-**Copyright © 2025 RestlessByte**  
-*All repositories follow this license hierarchy:*
-
-### ⚖️ License Priority
-1. **Repository-specific license**  
-   If a repository contains its own `LICENSE` file, that license governs the project
-   
-2. **Default account license**  
-   For repositories without explicit license:  
-   [`RestlessByte/-License-Policy-for-My-Repositories/blob/main/LICENSE.md`](https://github.com/RestlessByte/-License-Policy-for-My-Repositories/blob/main/LICENSE.md) applies
-
-### 📦 License Terms (Default)
-**✅ Permitted**  
-- Personal/commercial use
-- Private modifications
-- SaaS integration
-
-**🚫 Prohibited**  
-- Source redistribution
-- Software resale
-- Public modified versions
-
-**📝 Attribution Required**  
-1. Visible credit in documentation  
-2. Author mention in software credits  
-
-[![License Shield](https://img.shields.io/badge/License-Custom-important?style=flat-square&logo=law)](https://github.com/RestlessByte/RestlessByte/blob/main/LICENSE.md)
-[![License Inquiry](https://img.shields.io/badge/Contact-Legal%20Query-blue?style=flat-square&logo=minutemailer)](mailto:localhost.l@yandex.com)
+- Build AI-driven backends & chat-bot platforms (Telegram + Web) with TypeScript/NestJS/NX/WS
+- Design secure architectures: encryption at-rest/in-transit, E2E tokens, audit, RBAC
+- Automate devops on Linux: CLI tooling, Docker/Kubernetes packing, CI/CD, self-hosted stacks
+- Optimize data flows: PostgreSQL schema design, performance, sharding-ready patterns
 
 ---
 
-## 📄 Professional Profiles
+## 🛠 Tech Stack (Core)
 
-| Platform        | Link                                                                 |
-|-----------------|----------------------------------------------------------------------|
-| hh.ru           | [Resume](https://hh.ru/resume/7aee394dff0e982c5b0039ed1f666a5a524544)|
-| Avito (Services)| [Service Card](https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194) |
-| Avito (Resume)  | [Programmer Profile](https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373) |
+<p>
+  <img alt="Python" title="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="TypeScript" title="TypeScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="Node.js" title="Node.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="C++" title="C++" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Next.js" title="Next.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="NestJS" title="NestJS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Linux" title="Linux" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="Docker" title="Docker" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Kubernetes" title="Kubernetes" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img alt="NGINX" title="NGINX" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img alt="Git" title="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
+
+<p>
+  <a href="https://RestlessByte.github.io">
+    <img alt="More Skills" src="https://img.shields.io/badge/Full%20skillset%20→%20Portfolio-0b7285?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 📫 Contact Me
+## 🚀 Featured & Live
 
-- **Telegram:** [@hub00000](https://t.me/hub00000)
-- **Email:** [localhost.l@yandex.com](mailto:localhost.l@yandex.com)
-- **GitHub Issues:** [Feature Requests](https://github.com/RestlessByte/RestlessByte/issues)
+> Self‑hosted (prod can be paused)
+
+| Product / Project | Link |
+| --- | --- |
+| AI Hub in Telegram | <a href="https://t.me/AIHub0_bot">AIHub0_bot</a> |
+| Gaming Platform (Telegram) | <a href="https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194">Service Card</a> |
+| Network of AI/News/Projects | <a href="https://t.me/hub00000">@hub00000</a> |
+
+---
+
+## 📌 Highlights
+
+- 30+ shipped solutions: chat-bots, scalable DB backends, secure APIs, real-time UIs  
+- Custom E2E crypto layer for HTTPS+WS: token rotation, UUID gates, server/client checks  
+- Linux-first deployments, CLI automation, self-hosted infra, telemetry & alerting  
+- Author of open projects/tools (see pinned & portfolio)
+
+---
+
+## 🧠 Selected Case Notes
+
+- **AI Assistants / Chat Bots**: multi-tenant bots, instruction marketplaces, OpenAI/OpenRouter integration  
+- **Data & Security**: encrypted tokens in DB, weekly rotation, 2-level key checks, HTTPS+WS E2E  
+- **Dev Experience**: GitHub Actions, auto-versioning, Dockerized pipelines, IaC-ready
+
+---
+
+## 🪪 Licensing Policy
+
+<img alt="License" src="https://img.shields.io/badge/License-Custom-important?style=flat-square&logo=law" />
+<a href="mailto:localhost.l@yandex.com">
+  <img alt="Legal Query" src="https://img.shields.io/badge/Contact-Legal%20Query-blue?style=flat-square&logo=minutemailer" />
+</a>
+
+**Copyright © 2025 RestlessByte**
+
+**License priority:**
+1. Repository-specific `LICENSE` — if present, it governs  
+2. Default account license — applies otherwise:  
+   <a href="https://github.com/RestlessByte/-License-Policy-for-My-Repositories/blob/main/LICENSE.md">Default LICENSE.md</a>
+
+**Default (summary)**  
+✅ Personal/commercial use · private modifications · SaaS integration  
+🚫 Source redistribution · software resale · public modified forks  
+📝 Attribution: visible credit in docs + author mention in credits
+
+---
+
+## 💼 Profiles & Contacts
+
+**Profiles**
+- hh.ru: <a href="https://hh.ru/resume/7aee394dff0e982c5b0039ed1f666a5a524544">Resume</a>  
+- Avito (Services): <a href="https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194">Service Card</a>  
+- Avito (Resume): <a href="https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373">Programmer Profile</a>
+
+**Contact**
+- Telegram: <a href="https://t.me/hub00000">@hub00000</a>  
+- Email: <a href="mailto:localhost.l@yandex.com">localhost.l@yandex.com</a>  
+- GitHub Issues: <a href="https://github.com/RestlessByte/RestlessByte/issues">Feature Requests</a>
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" />
-</div>
+<p align="center">
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RestlessByte&theme=vision-friendly-dark&hide_border=true" />
-</div>
+<p align="center">
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RestlessByte&theme=vision-friendly-dark&hide_border=true" />
+</p>
 
 ---
 
-> **Note:** All repositories inherit default licensing from [`RestlessByte/LICENSE.md`](https://github.com/RestlessByte/-License-Policy-for-My-Repositories/blob/main/LICENSE.md) unless overridden by repository-specific license files.
+> Repos inherit the default license above unless a repo has its own `LICENSE`.
