@@ -1,3 +1,12 @@
+<!-- GitHub Stats -->
+<p align="center">
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" />
+</p>
+<p align="center">
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RestlessByte&theme=vision-friendly-dark&hide_border=true" />
+</p>
+
 <!-- Profile Header -->
 <p align="center">
   <a href="https://github.com/RestlessByte">
@@ -184,19 +193,6 @@
 - Telegram: <a href="https://t.me/hub00000">@hub00000</a>  
 - Email: <a href="mailto:localhost.l@yandex.com">localhost.l@yandex.com</a>  
 - GitHub Issues: <a href="https://github.com/RestlessByte/RestlessByte/issues">Feature Requests</a>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RestlessByte&theme=vision-friendly-dark&hide_border=true" />
-</p>
 
 ---
 
