@@ -1,11 +1,4 @@
-<!-- GitHub Stats -->
-<p align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" />
-</p>
-<p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RestlessByte&theme=vision-friendly-dark&hide_border=true" />
-</p>
+
 
 <!-- Profile Header -->
 <p align="center">
@@ -42,7 +35,14 @@
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
+<!-- GitHub Stats -->
+<p align="center">
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" />
+</p>
+<p align="center">
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RestlessByte&theme=vision-friendly-dark&hide_border=true" />
+</p>
 ---
 
 ## 🔥 What I Do
