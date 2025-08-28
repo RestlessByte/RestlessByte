@@ -22,33 +22,6 @@
 
 ---
 
-## 🚀 About me
-
-I’m a full-stack developer focused on **TypeScript + PostgreSQL**, with a strong taste for **AI, security, and automation**.  
-I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web apps**, always deploying the **Linux way**.
-
-- 👨‍💻 AI-driven backends (NestJS, WebSockets, workers, queues)  
-- 🔐 Security by design: encryption in transit/at rest, rotating tokens, RBAC, audits  
-- 🐧 Linux-first DevOps: CLI tooling, Docker/Kubernetes packaging, CI/CD, self-hosted infra  
-- 🧠 Data modeling: clean schemas, performance tuning, sharding-ready patterns
-
----
-
-## 🛠 Tech I use daily
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-ea2845?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-3c873a?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-0f172a?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-9333ea?logo=cloudflare&logoColor=white" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <!-- Responsive stats card: light/dark via <picture>; rank hidden (no B-/S etc) -->
@@ -77,6 +50,31 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 
 ---
 
+## 🚀 About me
+
+I’m a full-stack developer focused on **TypeScript + PostgreSQL**, with a strong taste for **AI, security, and automation**.  
+I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web apps**, always deploying the **Linux way**.
+
+- 👨‍💻 AI-driven backends (NestJS, WebSockets, workers, queues)  
+- 🔐 Security by design: encryption in transit/at rest, rotating tokens, RBAC, audits  
+- 🐧 Linux-first DevOps: CLI tooling, Docker/Kubernetes packaging, CI/CD, self-hosted infra  
+- 🧠 Data modeling: clean schemas, performance tuning, sharding-ready patterns
+
+---
+
+## 🛠 Tech I use daily
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-ea2845?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-3c873a?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0f172a?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-9333ea?logo=cloudflare&logoColor=white" />
+</p>
+---
 ## 📦 Pinned Work
 <p align="center">
   <a href="https://github.com/RestlessByte/GitZipQR">
