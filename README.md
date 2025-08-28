@@ -19,7 +19,14 @@
   <em>“Strive for the impossible.”</em><br/>
   <em>“We know — that we know nothing. (Socrates)”</em>
 </p>
-
+<p align="center">
+  <img alt="IT-Geek" src="https://img.shields.io/badge/IT–Geek-0b7285?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="AI-Coder" src="https://img.shields.io/badge/AI–Coder-5f3dc4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Security" src="https://img.shields.io/badge/Security%20Specialist-2b8a3e?style=for-the-badge&logo=protonvpn&logoColor=white" />
+  <img alt="Chat Bots Architect" src="https://img.shields.io/badge/Chat%20Bots%20Architect-1c7ed6?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img alt="Linux Enthusiast" src="https://img.shields.io/badge/Linux%20Enthusiast-111827?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Innovation Seeker" src="https://img.shields.io/badge/Innovation%20Seeker-f59f00?style=for-the-badge&logo=lightning&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Stats
@@ -49,19 +56,6 @@
 </p>
 
 ---
-
-## 🚀 About me
-
-I’m a full-stack developer focused on **TypeScript + PostgreSQL**, with a strong taste for **AI, security, and automation**.  
-I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web apps**, always deploying the **Linux way**.
-
-- 👨‍💻 AI-driven backends (NestJS, WebSockets, workers, queues)  
-- 🔐 Security by design: encryption in transit/at rest, rotating tokens, RBAC, audits  
-- 🐧 Linux-first DevOps: CLI tooling, Docker/Kubernetes packaging, CI/CD, self-hosted infra  
-- 🧠 Data modeling: clean schemas, performance tuning, sharding-ready patterns
-
----
-
 ## 🛠 Tech I use daily
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
@@ -74,6 +68,17 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
   <img src="https://img.shields.io/badge/Linux-0f172a?logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-9333ea?logo=cloudflare&logoColor=white" />
 </p>
+---
+
+## 🚀 About me
+
+I’m a full-stack developer focused on **TypeScript + PostgreSQL**, with a strong taste for **AI, security, and automation**.  
+I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web apps**, always deploying the **Linux way**.
+
+- 👨‍💻 AI-driven backends (NestJS, WebSockets, workers, queues)  
+- 🔐 Security by design: encryption in transit/at rest, rotating tokens, RBAC, audits  
+- 🐧 Linux-first DevOps: CLI tooling, Docker/Kubernetes packaging, CI/CD, self-hosted infra  
+- 🧠 Data modeling: clean schemas, performance tuning, sharding-ready patterns
 ---
 ## 📦 Pinned Work
 <p align="center">
