@@ -1,7 +1,15 @@
-<!-- Profile Header -->
+<!-- Dynamic Green Banner -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:0f766e,100:16a34a&text=Hello!%20I’m%20Daniil%20—%20RestlessByte&fontColor=ffffff&fontSize=38&animation=fadeIn&height=140&desc=AI%20automation%20%7C%20TypeScript%20%2B%20PostgreSQL%20%7C%20Linux-first&descAlign=50&descAlignY=75"
+    alt="Hero Banner"
+  />
+</p>
+
+<!-- Avatar -->
 <p align="center">
   <a href="https://github.com/RestlessByte">
-    <img src="https://github.com/RestlessByte.png" width="140" height="140" style="border-radius:50%" alt="RestlessByte Avatar" />
+    <img src="https://github.com/RestlessByte.png" width="120" height="120" style="border-radius:50%" alt="RestlessByte Avatar" />
   </a>
 </p>
 
@@ -12,131 +20,73 @@
   <em>“We know — that we know nothing. (Socrates)”</em>
 </p>
 
-<!-- Role Pills -->
+<!-- Role Pills (green-centered palette) -->
 <p align="center">
-  <img alt="IT-Geek" src="https://img.shields.io/badge/IT–Geek-0b7285?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="AI-Coder" src="https://img.shields.io/badge/AI–Coder-5f3dc4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="Security" src="https://img.shields.io/badge/Security%20Specialist-2b8a3e?style=for-the-badge&logo=protonvpn&logoColor=white" />
-  <img alt="Chat Bots Architect" src="https://img.shields.io/badge/Chat%20Bots%20Architect-1c7ed6?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img alt="Linux Enthusiast" src="https://img.shields.io/badge/Linux%20Enthusiast-111827?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Innovation Seeker" src="https://img.shields.io/badge/Innovation%20Seeker-f59f00?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img alt="IT-Geek" src="https://img.shields.io/badge/IT–Geek-0f766e?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="AI-Coder" src="https://img.shields.io/badge/AI–Coder-14532d?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Security" src="https://img.shields.io/badge/Security%20Specialist-166534?style=for-the-badge&logo=protonvpn&logoColor=white" />
+  <img alt="Chat Bots Architect" src="https://img.shields.io/badge/Chat%20Bots%20Architect-15803d?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img alt="Linux Enthusiast" src="https://img.shields.io/badge/Linux%20Enthusiast-052e2b?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Innovation Seeker" src="https://img.shields.io/badge/Innovation%20Seeker-16a34a?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 
 <!-- Contacts -->
 <p align="center">
   <a href="https://t.me/RestlessByte">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:localhost.l@yandex.com">
-    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
   </a>
   <a href="https://RestlessByte.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-065f46?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
+
+## About me
+
+I’m a full-stack developer focused on **TypeScript + PostgreSQL** with a strong taste for **AI, security, and automation**.  
+I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web apps**, deploying everything the Linux way.
+
+- 👨‍💻 Building AI-driven backends (NestJS, WebSockets, workers, queues)  
+- 🔐 Security by design: encryption in transit/at rest, rotating tokens, RBAC, audits  
+- 🐧 Linux-first DevOps: CLI tooling, Docker/Kubernetes packaging, CI/CD, self-hosted stacks  
+- 🧠 Data modeling: clean schemas, performance tuning, sharding-ready patterns
+
+---
+
+## 🛠 Tech I use daily
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-ea2845?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-3c873a?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0b5345?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-16a34a?logo=cloudflare&logoColor=white" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200"
+       src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200"
        alt="GitHub Stats" />
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&card_width=380&hide=css,html,shell,powershell,scss&cache_seconds=7200"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=merko&hide_border=true&langs_count=8&card_width=380&hide=css,html,shell,powershell,scss&cache_seconds=7200"
        alt="Top Languages" />
 </p>
-
 <p align="center">
   <img
-       src="https://streak-stats.demolab.com?user=RestlessByte&theme=vision-friendly-dark&hide_border=true"
+       src="https://streak-stats.demolab.com?user=RestlessByte&theme=merko&hide_border=true"
        alt="GitHub Streak" />
-</p>
-
----
-
-## 🔥 What I Do
-
-- Build AI-driven backends & chat-bot platforms (Telegram + Web) with TypeScript/NestJS/NX/WS  
-- Design secure architectures: encryption at-rest/in-transit, E2E tokens, audit, RBAC  
-- Automate devops on Linux: CLI tooling, Docker/Kubernetes packing, CI/CD, self-hosted stacks  
-- Optimize data flows: PostgreSQL schema design, performance, sharding-ready patterns  
-
----
-
-## 🛠 Tech Stack (Core)
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript"/><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++"/><br/>
-      <sub><b>C++</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js"/><br/>
-      <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="48" alt="NestJS"/><br/>
-      <sub><b>NestJS</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL"/><br/>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker"/><br/>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" alt="Kubernetes"/><br/>
-      <sub><b>Kubernetes</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="48" alt="NGINX"/><br/>
-      <sub><b>NGINX</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux"/><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub"/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/websocket.svg" height="48" alt="WebSockets"/><br/>
-      <sub><b>WebSockets</b></sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://RestlessByte.github.io">
-    <img alt="More Skills" src="https://img.shields.io/badge/Full%20skillset%20→%20Portfolio-0b7285?style=for-the-badge" />
-  </a>
 </p>
 
 ---
@@ -156,25 +106,46 @@
 ## 📌 Highlights
 
 - 30+ shipped solutions: chat-bots, scalable DB backends, secure APIs, real-time UIs  
-- Custom E2E crypto layer for HTTPS+WS: token rotation, UUID gates, server/client checks  
+- Custom **E2E crypto** for HTTPS + WS: token rotation, UUID gates, server/client checks  
 - Linux-first deployments, CLI automation, self-hosted infra, telemetry & alerting  
-- Author of open projects/tools (see pinned & portfolio)  
+- Author of open tools (see pinned & portfolio)
 
 ---
 
 ## 🧠 Selected Case Notes
 
-- **AI Assistants / Chat Bots**: multi-tenant bots, instruction marketplaces, OpenAI/OpenRouter integration  
-- **Data & Security**: encrypted tokens in DB, weekly rotation, 2-level key checks, HTTPS+WS E2E  
-- **Dev Experience**: GitHub Actions, auto-versioning, Dockerized pipelines, IaC-ready  
+- **AI Assistants / Chat Bots** — multi-tenant bots, instruction marketplaces, OpenAI/OpenRouter integration  
+- **Data & Security** — encrypted tokens in DB, weekly rotation, 2-level key checks, HTTPS+WS E2E  
+- **Dev Experience** — GitHub Actions, auto-versioning, Dockerized pipelines, IaC-ready
+
+---
+
+## 📦 Pinned work (cards)
+
+<p align="center">
+  <a href="https://github.com/RestlessByte/GitZipQR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=GitZipQR&theme=merko&hide_border=true" />
+  </a>
+  <a href="https://github.com/RestlessByte/AI-CLI-LINUX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=AI-CLI-LINUX&theme=merko&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/RestlessByte/usingOpenAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=usingOpenAI&theme=merko&hide_border=true" />
+  </a>
+  <a href="https://github.com/RestlessByte/RestlessByte.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=RestlessByte.github.io&theme=merko&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ## 🪪 Licensing Policy
 
-<img alt="License" src="https://img.shields.io/badge/License-Custom-important?style=flat-square&logo=law" />
+<img alt="License" src="https://img.shields.io/badge/License-Custom-065f46?style=flat-square&logo=law&logoColor=white" />
 <a href="mailto:localhost.l@yandex.com">
-  <img alt="Legal Query" src="https://img.shields.io/badge/Contact-Legal%20Query-blue?style=flat-square&logo=minutemailer" />
+  <img alt="Legal Query" src="https://img.shields.io/badge/Contact-Legal%20Query-0ea5e9?style=flat-square&logo=minutemailer&logoColor=white" />
 </a>
 
 **Copyright © 2025 RestlessByte**
@@ -187,7 +158,7 @@
 **Default (summary)**  
 ✅ Personal/commercial use · private modifications · SaaS integration  
 🚫 Source redistribution · software resale · public modified forks  
-📝 Attribution: visible credit in docs + author mention in credits  
+📝 Attribution: visible credit in docs + author mention in credits
 
 ---
 
@@ -201,7 +172,7 @@
 **Contact**
 - Telegram: <a href="https://t.me/hub00000">@hub00000</a>  
 - Email: <a href="mailto:localhost.l@yandex.com">localhost.l@yandex.com</a>  
-- GitHub Issues: <a href="https://github.com/RestlessByte/RestlessByte/issues">Feature Requests</a>  
+- GitHub Issues: <a href="https://github.com/RestlessByte/RestlessByte/issues">Feature Requests</a>
 
 ---
 
