@@ -36,10 +36,12 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6&hide=css,html,shell" alt="Top Languages" />
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RestlessByte&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 </p>
