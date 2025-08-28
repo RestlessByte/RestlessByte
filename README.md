@@ -20,11 +20,11 @@
   <em>“We know — that we know nothing. (Socrates)”</em>
 </p>
 
-<!-- Role Pills (gradient palette) -->
+<!-- Role Pills -->
 <p align="center">
   <img alt="IT-Geek" src="https://img.shields.io/badge/IT–Geek-ec4899?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="AI-Coder" src="https://img.shields.io/badge/AI–Coder-a855f7?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="Security" src="https://img.shields.io/badge/Security%20Specialist-8b5cf6?style=for-the-badge&logo=protonvpn&logoColor=white" />
+  <img alt="Security Specialist" src="https://img.shields.io/badge/Security%20Specialist-8b5cf6?style=for-the-badge&logo=protonvpn&logoColor=white" />
   <img alt="Chat Bots Architect" src="https://img.shields.io/badge/Chat%20Bots%20Architect-c026d3?style=for-the-badge&logo=telegram&logoColor=white" />
   <img alt="Linux Enthusiast" src="https://img.shields.io/badge/Linux%20Enthusiast-701a75?style=for-the-badge&logo=linux&logoColor=white" />
   <img alt="Innovation Seeker" src="https://img.shields.io/badge/Innovation%20Seeker-f472b6?style=for-the-badge&logo=lightning&logoColor=white" />
@@ -33,13 +33,13 @@
 <!-- Contacts -->
 <p align="center">
   <a href="https://t.me/RestlessByte">
-    <img src="https://img.shields.io/badge/Telegram-60a5fa?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-60a5fa?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:localhost.l@yandex.com">
-    <img src="https://img.shields.io/badge/Email-f87171?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-f87171?style=for-the-badge&logo=minutemailer&logoColor=white" />
   </a>
   <a href="https://RestlessByte.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
 </p>
 
@@ -50,9 +50,9 @@
 I’m a full-stack developer focused on **TypeScript + PostgreSQL** with a strong taste for **AI, security, and automation**.  
 I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web apps**, deploying everything the Linux way.
 
-- 👨‍💻 Building AI-driven backends (NestJS, WebSockets, workers, queues)  
+- 👨‍💻 AI-driven backends (NestJS, WebSockets, workers, queues)  
 - 🔐 Security by design: encryption in transit/at rest, rotating tokens, RBAC, audits  
-- 🐧 Linux-first DevOps: CLI tooling, Docker/Kubernetes packaging, CI/CD, self-hosted stacks  
+- 🐧 Linux-first DevOps: CLI tooling, Docker/Kubernetes packaging, CI/CD, self-hosted infra  
 - 🧠 Data modeling: clean schemas, performance tuning, sharding-ready patterns  
 
 ---
@@ -80,25 +80,19 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
        src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
        alt="GitHub Stats" />
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=380&hide=ts,js,cpp,css,html,shell,bash,scss,css"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=380&hide=css,html,shell,powershell,scss"
        alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-       src="https://streak-stats.demolab.com?user=RestlessByte&theme=radical&hide_border=true"
-       alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=RestlessByte&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
 
 ---
 
 ## 🚀 Featured & Live
 
-> Self-hosted (prod can be paused)
-
-| Product / Project | Link |
+| Project | Link |
 | --- | --- |
 | AI Hub in Telegram | <a href="https://t.me/AIHub0_bot">AIHub0_bot</a> |
 | Gaming Platform (Telegram) | <a href="https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194">Service Card</a> |
@@ -111,7 +105,7 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 - 30+ shipped solutions: chat-bots, scalable DB backends, secure APIs, real-time UIs  
 - Custom **E2E crypto** for HTTPS + WS: token rotation, UUID gates, server/client checks  
 - Linux-first deployments, CLI automation, self-hosted infra, telemetry & alerting  
-- Author of open tools (see pinned & portfolio)
+- Author of open tools (see pinned & portfolio)  
 
 ---
 
@@ -123,7 +117,7 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 
 ---
 
-## 📦 Pinned work (cards)
+## 📦 Pinned Work
 
 <p align="center">
   <a href="https://github.com/RestlessByte/GitZipQR">
@@ -156,12 +150,7 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 **License priority:**
 1. Repository-specific `LICENSE` — if present, it governs  
 2. Default account license — applies otherwise:  
-   <a href="https://github.com/RestlessByte/-License-Policy-for-My-Repositories/blob/main/LICENSE.md">Default LICENSE.md</a>
-
-**Default (summary)**  
-✅ Personal/commercial use · private modifications · SaaS integration  
-🚫 Source redistribution · software resale · public modified forks  
-📝 Attribution: visible credit in docs + author mention in credits  
+   <a href="https://github.com/RestlessByte/-License-Policy-for-My-Repositories/blob/main/LICENSE.md">Default LICENSE.md</a>  
 
 ---
 
@@ -169,14 +158,10 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 
 **Profiles**
 - hh.ru: <a href="https://hh.ru/resume/7aee394dff0e982c5b0039ed1f666a5a524544">Resume</a>  
-- Avito (Services): <a href="https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194">Service Card</a>  
-- Avito (Resume): <a href="https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373">Programmer Profile</a>
+- Avito Services: <a href="https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194">Service Card</a>  
+- Avito Resume: <a href="https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373">Programmer Profile</a>  
 
 **Contact**
 - Telegram: <a href="https://t.me/hub00000">@hub00000</a>  
 - Email: <a href="mailto:localhost.l@yandex.com">localhost.l@yandex.com</a>  
 - GitHub Issues: <a href="https://github.com/RestlessByte/RestlessByte/issues">Feature Requests</a>  
-
----
-
-> Repos inherit the default license above unless a repo has its own `LICENSE`.
