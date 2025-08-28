@@ -80,7 +80,7 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
        src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
        alt="GitHub Stats" />
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=380&hide=ts,js,cppcss,html,shell,bash,scss,css"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=380&hide=ts,js,cpp,css,html,shell,bash,scss,css"
        alt="Top Languages" />
 </p>
 
