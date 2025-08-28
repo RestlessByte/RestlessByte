@@ -1,7 +1,7 @@
-<!-- Dynamic Green Banner -->
+<!-- Dynamic Gradient Banner -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:0f766e,100:16a34a&text=Hello!%20I’m%20Daniil%20—%20RestlessByte&fontColor=ffffff&fontSize=38&animation=fadeIn&height=140&desc=AI%20automation%20%7C%20TypeScript%20%2B%20PostgreSQL%20%7C%20Linux-first&descAlign=50&descAlignY=75"
+    src="https://capsule-render.vercel.app/api?type=soft&color=0:ec4899,50:a855f7,100:8b5cf6&text=Hello!%20I’m%20Daniil%20—%20RestlessByte&fontColor=ffffff&fontSize=38&animation=fadeIn&height=140&desc=AI%20automation%20%7C%20TypeScript%20%2B%20PostgreSQL%20%7C%20Linux-first&descAlign=50&descAlignY=75"
     alt="Hero Banner"
   />
 </p>
@@ -20,26 +20,26 @@
   <em>“We know — that we know nothing. (Socrates)”</em>
 </p>
 
-<!-- Role Pills (green-centered palette) -->
+<!-- Role Pills (gradient palette) -->
 <p align="center">
-  <img alt="IT-Geek" src="https://img.shields.io/badge/IT–Geek-0f766e?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="AI-Coder" src="https://img.shields.io/badge/AI–Coder-14532d?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="Security" src="https://img.shields.io/badge/Security%20Specialist-166534?style=for-the-badge&logo=protonvpn&logoColor=white" />
-  <img alt="Chat Bots Architect" src="https://img.shields.io/badge/Chat%20Bots%20Architect-15803d?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img alt="Linux Enthusiast" src="https://img.shields.io/badge/Linux%20Enthusiast-052e2b?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Innovation Seeker" src="https://img.shields.io/badge/Innovation%20Seeker-16a34a?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img alt="IT-Geek" src="https://img.shields.io/badge/IT–Geek-ec4899?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="AI-Coder" src="https://img.shields.io/badge/AI–Coder-a855f7?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Security" src="https://img.shields.io/badge/Security%20Specialist-8b5cf6?style=for-the-badge&logo=protonvpn&logoColor=white" />
+  <img alt="Chat Bots Architect" src="https://img.shields.io/badge/Chat%20Bots%20Architect-c026d3?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img alt="Linux Enthusiast" src="https://img.shields.io/badge/Linux%20Enthusiast-701a75?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Innovation Seeker" src="https://img.shields.io/badge/Innovation%20Seeker-f472b6?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 
 <!-- Contacts -->
 <p align="center">
   <a href="https://t.me/RestlessByte">
-    <img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-60a5fa?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:localhost.l@yandex.com">
-    <img src="https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-f87171?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
   </a>
   <a href="https://RestlessByte.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-065f46?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-9333ea?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 - 👨‍💻 Building AI-driven backends (NestJS, WebSockets, workers, queues)  
 - 🔐 Security by design: encryption in transit/at rest, rotating tokens, RBAC, audits  
 - 🐧 Linux-first DevOps: CLI tooling, Docker/Kubernetes packaging, CI/CD, self-hosted stacks  
-- 🧠 Data modeling: clean schemas, performance tuning, sharding-ready patterns
+- 🧠 Data modeling: clean schemas, performance tuning, sharding-ready patterns  
 
 ---
 
@@ -67,8 +67,8 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
   <img src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-0b5345?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-16a34a?logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0f172a?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-9333ea?logo=cloudflare&logoColor=white" />
 </p>
 
 ---
@@ -77,15 +77,15 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 
 <p align="center">
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200"
+       src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200"
        alt="GitHub Stats" />
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=merko&hide_border=true&langs_count=8&card_width=380&hide=css,html,shell,powershell,scss&cache_seconds=7200"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=380&hide=css,html,shell,powershell,scss&cache_seconds=7200"
        alt="Top Languages" />
 </p>
 <p align="center">
   <img
-       src="https://streak-stats.demolab.com?user=RestlessByte&theme=merko&hide_border=true"
+       src="https://streak-stats.demolab.com?user=RestlessByte&theme=radical&hide_border=true"
        alt="GitHub Streak" />
 </p>
 
@@ -116,7 +116,7 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 
 - **AI Assistants / Chat Bots** — multi-tenant bots, instruction marketplaces, OpenAI/OpenRouter integration  
 - **Data & Security** — encrypted tokens in DB, weekly rotation, 2-level key checks, HTTPS+WS E2E  
-- **Dev Experience** — GitHub Actions, auto-versioning, Dockerized pipelines, IaC-ready
+- **Dev Experience** — GitHub Actions, auto-versioning, Dockerized pipelines, IaC-ready  
 
 ---
 
@@ -124,18 +124,18 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 
 <p align="center">
   <a href="https://github.com/RestlessByte/GitZipQR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=GitZipQR&theme=merko&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=GitZipQR&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/RestlessByte/AI-CLI-LINUX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=AI-CLI-LINUX&theme=merko&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=AI-CLI-LINUX&theme=radical&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/RestlessByte/usingOpenAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=usingOpenAI&theme=merko&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=usingOpenAI&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/RestlessByte/RestlessByte.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=RestlessByte.github.io&theme=merko&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=RestlessByte.github.io&theme=radical&hide_border=true" />
   </a>
 </p>
 
@@ -143,9 +143,9 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 
 ## 🪪 Licensing Policy
 
-<img alt="License" src="https://img.shields.io/badge/License-Custom-065f46?style=flat-square&logo=law&logoColor=white" />
+<img alt="License" src="https://img.shields.io/badge/License-Custom-8b5cf6?style=flat-square&logo=law&logoColor=white" />
 <a href="mailto:localhost.l@yandex.com">
-  <img alt="Legal Query" src="https://img.shields.io/badge/Contact-Legal%20Query-0ea5e9?style=flat-square&logo=minutemailer&logoColor=white" />
+  <img alt="Legal Query" src="https://img.shields.io/badge/Contact-Legal%20Query-ec4899?style=flat-square&logo=minutemailer&logoColor=white" />
 </a>
 
 **Copyright © 2025 RestlessByte**
@@ -158,7 +158,7 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 **Default (summary)**  
 ✅ Personal/commercial use · private modifications · SaaS integration  
 🚫 Source redistribution · software resale · public modified forks  
-📝 Attribution: visible credit in docs + author mention in credits
+📝 Attribution: visible credit in docs + author mention in credits  
 
 ---
 
@@ -172,7 +172,7 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 **Contact**
 - Telegram: <a href="https://t.me/hub00000">@hub00000</a>  
 - Email: <a href="mailto:localhost.l@yandex.com">localhost.l@yandex.com</a>  
-- GitHub Issues: <a href="https://github.com/RestlessByte/RestlessByte/issues">Feature Requests</a>
+- GitHub Issues: <a href="https://github.com/RestlessByte/RestlessByte/issues">Feature Requests</a>  
 
 ---
 
