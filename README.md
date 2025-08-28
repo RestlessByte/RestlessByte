@@ -56,12 +56,12 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&border_radius=12&v=3" />
   </picture>
 
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&card_width=380&hide_progress=false&theme=dark&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&card_width=380&hide_progress=false&theme=transparent&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&border_radius=12&v=3" />
     <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&card_width=380&hide_progress=false&theme=transparent&hide_border=true&border_radius=12&v=3" />
   </picture>
 </p>
