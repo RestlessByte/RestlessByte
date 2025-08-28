@@ -50,17 +50,29 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 ---
 
 ## 📊 GitHub Stats
+
+<!-- Responsive stats card: light/dark via <picture>; rank hidden (no B-/S etc) -->
 <p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&v=2"
-       alt="GitHub Stats" />
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=380&hide=html,shell,css,scss&v=2"
-       alt="Top Languages" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&border_radius=12&v=3" />
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&card_width=380&hide_progress=false&theme=dark&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&card_width=380&hide_progress=false&theme=transparent&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&card_width=380&hide_progress=false&theme=transparent&hide_border=true&border_radius=12&v=3" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RestlessByte&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=RestlessByte&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=720&v=3#gh-dark-mode-only" alt="GitHub Streak Dark" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=RestlessByte&theme=default&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=720&v=3#gh-light-mode-only" alt="GitHub Streak Light" />
+  </a>
 </p>
 
 ---
@@ -68,27 +80,28 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 ## 📦 Pinned Work
 <p align="center">
   <a href="https://github.com/RestlessByte/GitZipQR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=GitZipQR&theme=radical&hide_border=true&v=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=GitZipQR&theme=transparent&hide_border=true&border_radius=12&v=3" />
   </a>
   <a href="https://github.com/RestlessByte/AI-CLI-LINUX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=AI-CLI-LINUX&theme=radical&hide_border=true&v=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=AI-CLI-LINUX&theme=transparent&hide_border=true&border_radius=12&v=3" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/RestlessByte/usingOpenAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=usingOpenAI&theme=radical&hide_border=true&v=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=usingOpenAI&theme=transparent&hide_border=true&border_radius=12&v=3" />
   </a>
   <a href="https://github.com/RestlessByte/RestlessByte.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=RestlessByte.github.io&theme=radical&hide_border=true&v=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=RestlessByte.github.io&theme=transparent&hide_border=true&border_radius=12&v=3" />
   </a>
 </p>
 
 ---
 
 ## 💼 Profiles & Contacts
+
 **Profiles**  
 - hh.ru: <a href="https://hh.ru/resume/7aee394dff0e982c5b0039ed1f666a5a524544">Resume</a>  
-- Avito Services: <a href="https://www.avito.ru/meleuz/pредlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194">Service Card</a>  
+- Avito Services: <a href="https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194">Service Card</a>  
 - Avito Resume: <a href="https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373">Programmer Profile</a>
 
 **Contact**  
