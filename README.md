@@ -28,7 +28,7 @@
   <img alt="Innovation Seeker" src="https://img.shields.io/badge/Innovation%20Seeker-f59f00?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 ---
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <!-- Responsive stats card: light/dark via <picture>; rank hidden (no B-/S etc) -->
 <p align="center">
