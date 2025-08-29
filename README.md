@@ -28,7 +28,6 @@
   <img alt="Innovation Seeker" src="https://img.shields.io/badge/Innovation%20Seeker-f59f00?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 ---
-
 ## 📊 GitHub Stats
 
 <!-- Responsive stats card: light/dark via <picture>; rank hidden (no B-/S etc) -->
@@ -79,25 +78,6 @@ I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web a
 - 🔐 Security by design: encryption in transit/at rest, rotating tokens, RBAC, audits  
 - 🐧 Linux-first DevOps: CLI tooling, Docker/Kubernetes packaging, CI/CD, self-hosted infra  
 - 🧠 Data modeling: clean schemas, performance tuning, sharding-ready patterns
----
-## 📦 Pinned Work
-<p align="center">
-  <a href="https://github.com/RestlessByte/GitZipQR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=GitZipQR&theme=transparent&hide_border=true&border_radius=12&v=3" />
-  </a>
-  <a href="https://github.com/RestlessByte/AI-CLI-LINUX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=AI-CLI-LINUX&theme=transparent&hide_border=true&border_radius=12&v=3" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/RestlessByte/usingOpenAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=usingOpenAI&theme=transparent&hide_border=true&border_radius=12&v=3" />
-  </a>
-  <a href="https://github.com/RestlessByte/RestlessByte.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RestlessByte&repo=RestlessByte.github.io&theme=transparent&hide_border=true&border_radius=12&v=3" />
-  </a>
-</p>
-
 ---
 
 ## 💼 Profiles & Contacts
