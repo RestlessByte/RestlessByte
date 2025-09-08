@@ -34,7 +34,6 @@
 <p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&border_radius=12&v=3" />
   </picture>
 
