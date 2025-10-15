@@ -5,7 +5,7 @@
     alt="Hero Banner"
   />
 </p>
-<img width="4480" height="1440" alt="image" src="https://github.com/user-attachments/assets/25270562-26b3-4717-a28e-e2bb277eb26e" />
+<img width="4480" height="1440" alt="image" src="https://github.com/user-attachments/assets/637788ee-3966-48be-b0c2-f9d7af2d9d1b" />
 
 <!-- Avatar -->
 <p align="center">
