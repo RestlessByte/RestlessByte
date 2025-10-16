@@ -1,4 +1,4 @@
-# GITHUB This me two home in smart world for storage data and code!
+- GITHUB - This me two home in smart world for storage data and code!
 <!-- Dynamic Gradient Banner -->
 <p align="center">
   <img
