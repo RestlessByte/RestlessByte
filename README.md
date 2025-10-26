@@ -1,4 +1,5 @@
 - GITHUB - This me two home in smart world for storage data and code!
+- I"am open for remote work in different parts of the world. For parts contact in Telegram: *https://t.me/RestlessByte* = send me message with prefix in down <code>#3032 = GitHub </code>
 <!-- Dynamic Gradient Banner -->
 <p align="center">
   <img
