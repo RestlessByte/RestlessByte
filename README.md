@@ -1,5 +1,5 @@
 - <code></> GitHub.com</code> - This me two home in smart world for storage data and code!
-- I"am open for remote work in different parts of the world. For parts contact in Telegram: *https://t.me/RestlessByte* or in bot *https://t.me/@reportRestlessByte_bot = send me message with prefix in down <code>#3032 = GitHub</code> - more chats and channel at me
+- I"am open for remote work in different parts of the world. For parts contact in Telegram: *https://t.me/RestlessByte* or in bot *https://t.me/@reportRestlessByte_bot* = send me message with prefix in down <code>#3032 = GitHub</code> - more chats and channel at me
 <!-- Dynamic Gradient Banner -->
 <p align="center">
   <img
