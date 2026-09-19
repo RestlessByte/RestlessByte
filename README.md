@@ -1,96 +1,307 @@
-- <code></> GitHub.com</code> - This me two home in smart world for storage data and code!
-- I"am open for remote work in different parts of the world. For parts contact in Telegram: *https://t.me/RestlessByte* or in bot *https://t.me/@reportRestlessByte_bot* = send me message with prefix in down <code>3032 = GitHub</code> - more chats and channel at me
-<!-- Dynamic Gradient Banner -->
+<!-- ========================================================= -->
+
+<!--                    RESTLESSBYTE PROFILE                    -->
+
+<!-- ========================================================= -->
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:ec4899,50:a855f7,100:8b5cf6&text=Hello!%20I’m%20Daniil%20—%20RestlessByte&fontColor=ffffff&fontSize=38&animation=fadeIn&height=140&desc=AI%20Automation%20%7C%20TypeScript%20%2B%20PostgreSQL%20%7C%20Linux-first&descAlign=50&descAlignY=75"
-    alt="Hero Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,45:a855f7,100:6366f1&height=220&section=header&text=Daniil%20%7C%20RestlessByte&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20%E2%80%A2%20Automation%20%E2%80%A2%20Linux&descAlignY=57&descSize=18"
+    width="100%"
+    alt="RestlessByte Banner"
   />
 </p>
-<img width="4480" height="1440" alt="image" src="https://github.com/user-attachments/assets/637788ee-3966-48be-b0c2-f9d7af2d9d1b" />
 
-<!-- Avatar -->
 <p align="center">
   <a href="https://github.com/RestlessByte">
-    <img src="https://github.com/RestlessByte.png" width="120" height="120" style="border-radius:50%" alt="RestlessByte Avatar" />
+    <img
+      src="https://github.com/RestlessByte.png"
+      width="130"
+      height="130"
+      alt="RestlessByte"
+    />
   </a>
 </p>
 
-<h1 align="center">👋 Hi! I'm Daniil V — <i>aka</i> <a href="https://github.com/RestlessByte">RestlessByte</a></h1>
+<h1 align="center">
+  Hi 👋 I'm Daniil
+</h1>
+
+<h3 align="center">
+  Software Engineer • Full-Stack Developer • Automation Enthusiast
+</h3>
 
 <p align="center">
-  <em>“Strive for the impossible.”</em><br/>
-  <em>“We know — that we know nothing. (Socrates)”</em>
+  <code>&lt;/&gt; GitHub is my second home — a place where I build, experiment, store code, and turn ideas into working systems.</code>
 </p>
+
 <p align="center">
-  <img alt="IT-Geek" src="https://img.shields.io/badge/IT–Geek-0b7285?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="AI-Coder" src="https://img.shields.io/badge/AI–Coder-5f3dc4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="Security" src="https://img.shields.io/badge/Security%20Specialist-2b8a3e?style=for-the-badge&logo=protonvpn&logoColor=white" />
-  <img alt="Chat Bots Architect" src="https://img.shields.io/badge/Chat%20Bots%20Architect-1c7ed6?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img alt="Linux Enthusiast" src="https://img.shields.io/badge/Linux%20Enthusiast-111827?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Innovation Seeker" src="https://img.shields.io/badge/Innovation%20Seeker-f59f00?style=for-the-badge&logo=lightning&logoColor=white" />
+  🌍 Open to <strong>remote opportunities worldwide</strong>
+  <br/>
+  🤖 Building software, automation, AI-powered services and infrastructure
+  <br/>
+  🐧 Linux-first mindset
 </p>
+
+<p align="center">
+  <a href="https://t.me/RestlessByte">
+    <img src="https://img.shields.io/badge/Telegram-@RestlessByte-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:localhost.l@yandex.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/RestlessByte">
+    <img src="https://img.shields.io/badge/GitHub-RestlessByte-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    Prefer a bot?
+    <a href="https://t.me/reportRestlessByte_bot">Message me here</a>
+    and include <code>3032 = GitHub</code> in your message.
+  </sub>
+</p>
+
 ---
-## 📊 GitHub Stats
 
-<!-- Responsive stats card: light/dark via <picture>; rank hidden (no B-/S etc) -->
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&border_radius=12&v=3" />
-  </picture>
+## 🧠 About Me
 
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&card_width=380&hide_progress=false&theme=dark&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&card_width=380&hide_progress=false&theme=transparent&hide_border=true&border_radius=12&v=3" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&card_width=380&hide_progress=false&theme=transparent&hide_border=true&border_radius=12&v=3" />
-  </picture>
-</p>
+I'm a software engineer focused on building practical systems around
+**TypeScript, Node.js and PostgreSQL**.
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RestlessByte&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=720&v=3#gh-dark-mode-only" alt="GitHub Streak Dark" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RestlessByte&theme=default&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=720&v=3#gh-light-mode-only" alt="GitHub Streak Light" />
-  </a>
-</p>
+My main interests are **AI, automation, backend architecture, security,
+real-time systems and Linux infrastructure**.
+
+I prefer turning repetitive work into software.
+
+```text
+idea
+  ↓
+architecture
+  ↓
+code
+  ↓
+automation
+  ↓
+deployment
+  ↓
+monitoring
+  ↓
+improvement
+```
+
+> **Automate what can be automated. Understand what cannot.**
+
+I work on:
+
+* 🤖 AI-assisted applications and automation
+* ⚙️ Backend systems, workers, queues and background processing
+* 🌐 Real-time applications using WebSockets
+* 🔐 Authentication, authorization, RBAC and application security
+* 🐧 Linux servers and self-hosted infrastructure
+* 📦 Dockerized applications and CI/CD workflows
+* 🗄️ PostgreSQL architecture and performance
+* 💬 Telegram bots and communication platforms
 
 ---
-## 🛠 Tech I use daily
+
+## 🚀 Main Project — NodeMode
+
+<p align="center">
+  <strong>NodeMode</strong> is my long-term platform project.
+</p>
+
+It combines multiple services into one ecosystem:
+
+```text
+NodeMode
+├── Social Network
+├── Partner Discovery
+├── Notes
+├── Password Manager
+├── Web Search Frames
+├── Communication
+├── Personal Tools
+└── Developer Services
+```
+
+The main engineering goals are:
+
+**security • privacy • automation • performance • scalability • maintainability**
+
+---
+
+## ⚡ Technology Stack
+
+### Languages & Runtime
+
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-ea2845?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-3c873a?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-0f172a?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-9333ea?logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### Areas of Interest
+
+<p>
+  <img src="https://img.shields.io/badge/AI-A855F7?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Automation-6366F1?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Security-16A34A?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Security" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
+</p>
+
 ---
 
-## 🚀 About me
+## 📊 GitHub Statistics
 
-I’m a full-stack developer focused on **TypeScript + PostgreSQL**, with a strong taste for **AI, security, and automation**.  
-I design and ship **chat-bot platforms**, **secure APIs**, and **real-time web apps**, always deploying the **Linux way**.
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&border_radius=15"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=RestlessByte&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15"
+      alt="RestlessByte GitHub Statistics"
+    />
+  </picture>
 
-- 👨‍💻 AI-driven backends (NestJS, WebSockets, workers, queues)  
-- 🔐 Security by design: encryption in transit/at rest, rotating tokens, RBAC, audits  
-- 🐧 Linux-first DevOps: CLI tooling, Docker/Kubernetes packaging, CI/CD, self-hosted infra  
-- 🧠 Data modeling: clean schemas, performance tuning, sharding-ready patterns
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&theme=default&hide_border=true&border_radius=15"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestlessByte&layout=compact&langs_count=8&hide_border=true&border_radius=15"
+      alt="RestlessByte Top Languages"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=RestlessByte&theme=tokyonight&hide_border=true&border_radius=15"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=RestlessByte&theme=default&hide_border=true&border_radius=15"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=RestlessByte&hide_border=true&border_radius=15"
+      alt="RestlessByte GitHub Streak"
+    />
+  </picture>
+</p>
+
 ---
 
-## 💼 Profiles & Contacts
+## 💼 Open to Remote Work
 
-**Profiles**  
-- hh.ru: <a href="https://hh.ru/resume/7aee394dff0e982c5b0039ed1f666a5a524544">Resume</a>  
-- Avito Services: <a href="https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194">Service Card</a>  
-- Avito Resume: <a href="https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373">Programmer Profile</a>
+I'm open to collaborating with companies and engineering teams worldwide.
 
-**Contact**  
-- Telegram: <a href="https://t.me/hub00000">@hub00000</a>  
-- Email: <a href="mailto:localhost.l@yandex.com">localhost.l@yandex.com</a>  
-- Issues: <a href="https://github.com/RestlessByte/RestlessByte/issues">Feature Requests</a>
+I'm especially interested in projects involving:
+
+```text
+Backend Development
+AI & Automation
+Developer Tools
+Linux Infrastructure
+Real-Time Systems
+Security
+PostgreSQL
+TypeScript / Node.js
+```
+
+### 📬 Contact me
+
+<p align="center">
+  <a href="https://t.me/RestlessByte">
+    <img src="https://img.shields.io/badge/Telegram-@RestlessByte-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/reportRestlessByte_bot">
+    <img src="https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="mailto:localhost.l@yandex.com">
+    <img src="https://img.shields.io/badge/Email-localhost.l%40yandex.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+For messages sent through the bot, use:
+
+```text
+3032 = GitHub
+```
+
+so I know where you found me.
+
+---
+
+## 🔗 Profiles
+
+| Platform           | Link                                                                                                                   |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| 💻 GitHub          | [RestlessByte](https://github.com/RestlessByte)                                                                        |
+| 💼 hh.ru           | [Resume](https://hh.ru/resume/7aee394dff0e982c5b0039ed1f666a5a524544)                                                  |
+| 🛠️ Avito Services | [IT Services](https://www.avito.ru/meleuz/predlozheniya_uslug/ustanovka_windows_linux_razrabtka_pod_klyuch_3565647194) |
+| 👨‍💻 Avito Resume | [Programmer Profile](https://www.avito.ru/meleuz/rezume/programmist_programmer_3981233373)                             |
+| 💬 Telegram        | [@RestlessByte](https://t.me/RestlessByte)                                                                             |
+| 🤖 Telegram Bot    | [reportRestlessByte_bot](https://t.me/reportRestlessByte_bot)                                                          |
+
+---
+
+<p align="center">
+  <em>“The only true wisdom is in knowing you know nothing.” — Socrates</em>
+</p>
+
+<p align="center">
+  <strong>Build. Automate. Learn. Repeat.</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=110&section=footer"
+    width="100%"
+    alt=""
+  />
+</p>
